@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title></title>
+        <description></description>
+        <link>https://gcinfo.org/</link>
+        <atom:link href="https://gcinfo.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 08 Mar 2024 10:04:43 -0800</pubDate>
+        <lastBuildDate>Fri, 08 Mar 2024 10:04:43 -0800</lastBuildDate>
+        <generator>Jekyll v4.3.2</generator>
+        
+            <item>
+                <title>How to Respond to USCIS RFE</title>
+                <description>&lt;p&gt;The United States Citizenship and Immigration Services (USCIS) issues a Request for Evidence (RFE) when additional information or documentation is needed to make a decision on an immigration application. When an applicant submits a petition or application, USCIS reviews the provided materials. If the adjudicating officer determines that certain information is missing, unclear, or insufficient to make a decision, they will issue an RFE.&lt;/p&gt;
+
+&lt;p&gt;The RFE will specify the additional evidence or information required and provide a deadline for the applicant to respond. It is essential for the applicant to address the requests in a thorough and timely manner to avoid delays or potential denials of their immigration application.&lt;/p&gt;
+
+&lt;p&gt;Typically, the RFE will outline the specific issues or concerns, and the applicant must submit the requested documentation or clarification to support their case. This process is a standard part of the immigration application review, and responding appropriately to an RFE is crucial for a successful application outcome.&lt;/p&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-content&quot;&gt;Table of Content&lt;/h2&gt;
+&lt;ul class=&quot;cs-toc-section&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#most-common-rfe-for-adjustment-of-status&quot; id=&quot;markdown-toc-most-common-rfe-for-adjustment-of-status&quot;&gt;Most Common RFE for Adjustment of Status&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#incomplete-documentation&quot; id=&quot;markdown-toc-incomplete-documentation&quot;&gt;Incomplete Documentation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#insufficient-supporting-evidence&quot; id=&quot;markdown-toc-insufficient-supporting-evidence&quot;&gt;Insufficient Supporting Evidence&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#credential-evaluation&quot; id=&quot;markdown-toc-credential-evaluation&quot;&gt;Credential Evaluation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#proof-of-eligibility&quot; id=&quot;markdown-toc-proof-of-eligibility&quot;&gt;Proof of Eligibility&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#proof-of-relationship&quot; id=&quot;markdown-toc-proof-of-relationship&quot;&gt;Proof of Relationship&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#employment-based-cases&quot; id=&quot;markdown-toc-employment-based-cases&quot;&gt;Employment-Based Cases&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#affidavits-and-letters-of-support&quot; id=&quot;markdown-toc-affidavits-and-letters-of-support&quot;&gt;Affidavits and Letters of Support&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#medical-examination&quot; id=&quot;markdown-toc-medical-examination&quot;&gt;Medical Examination&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#responding-to-a-uscis-request-for-evidence-rfe&quot; id=&quot;markdown-toc-responding-to-a-uscis-request-for-evidence-rfe&quot;&gt;Responding to a USCIS Request for Evidence (RFE)&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#review-the-rfe&quot; id=&quot;markdown-toc-review-the-rfe&quot;&gt;Review the RFE&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#create-a-checklist&quot; id=&quot;markdown-toc-create-a-checklist&quot;&gt;Create a Checklist&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#understand-the-deadline&quot; id=&quot;markdown-toc-understand-the-deadline&quot;&gt;Understand the Deadline&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prepare-a-cover-letter&quot; id=&quot;markdown-toc-prepare-a-cover-letter&quot;&gt;Prepare a Cover Letter&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#compile-supporting-documents&quot; id=&quot;markdown-toc-compile-supporting-documents&quot;&gt;Compile Supporting Documents&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#address-each-point&quot; id=&quot;markdown-toc-address-each-point&quot;&gt;Address Each Point&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#professional-language&quot; id=&quot;markdown-toc-professional-language&quot;&gt;Professional Language&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#consult-an-immigration-attorney&quot; id=&quot;markdown-toc-consult-an-immigration-attorney&quot;&gt;Consult an Immigration Attorney&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#send-via-certified-mail&quot; id=&quot;markdown-toc-send-via-certified-mail&quot;&gt;Send Via Certified Mail&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#keep-a-copy&quot; id=&quot;markdown-toc-keep-a-copy&quot;&gt;Keep a Copy&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-to-avoid-rfe&quot; id=&quot;markdown-toc-how-to-avoid-rfe&quot;&gt;How to avoid RFE&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#thoroughly-understand-requirements&quot; id=&quot;markdown-toc-thoroughly-understand-requirements&quot;&gt;Thoroughly Understand Requirements&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#complete-and-accurate-forms&quot; id=&quot;markdown-toc-complete-and-accurate-forms&quot;&gt;Complete and Accurate Forms&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#organize-supporting-documents&quot; id=&quot;markdown-toc-organize-supporting-documents&quot;&gt;Organize Supporting Documents&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#follow-uscis-instructions&quot; id=&quot;markdown-toc-follow-uscis-instructions&quot;&gt;Follow USCIS Instructions&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#provide-translations&quot; id=&quot;markdown-toc-provide-translations&quot;&gt;Provide Translations&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#use-updated-forms&quot; id=&quot;markdown-toc-use-updated-forms&quot;&gt;Use Updated Forms&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#check-for-updates-and-policy-changes&quot; id=&quot;markdown-toc-check-for-updates-and-policy-changes&quot;&gt;Check for Updates and Policy Changes&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#seek-legal-advice&quot; id=&quot;markdown-toc-seek-legal-advice&quot;&gt;Seek Legal Advice&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#include-a-cover-letter&quot; id=&quot;markdown-toc-include-a-cover-letter&quot;&gt;Include a Cover Letter&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#maintain-consistency&quot; id=&quot;markdown-toc-maintain-consistency&quot;&gt;Maintain Consistency&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-a-notice-of-intent-to-deny-noid&quot; id=&quot;markdown-toc-what-is-a-notice-of-intent-to-deny-noid&quot;&gt;What is A Notice of Intent to Deny (NOID)?&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#reasons-for-intent-to-deny&quot; id=&quot;markdown-toc-reasons-for-intent-to-deny&quot;&gt;Reasons for Intent to Deny&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#response-required&quot; id=&quot;markdown-toc-response-required&quot;&gt;Response Required&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#provide-adequate-documentation&quot; id=&quot;markdown-toc-provide-adequate-documentation&quot;&gt;Provide Adequate Documentation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#legal-assistance&quot; id=&quot;markdown-toc-legal-assistance&quot;&gt;Legal Assistance&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;most-common-rfe-for-adjustment-of-status&quot;&gt;Most Common RFE for Adjustment of Status&lt;/h1&gt;
+&lt;p&gt;The Request for Evidence (RFE) issued by the USCIS can vary depending on the type of immigration application or petition. However, some common themes or reasons for RFE&lt;/p&gt;
+
+&lt;h3 id=&quot;incomplete-documentation&quot;&gt;Incomplete Documentation&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If the initial submission lacks necessary documents or contains incomplete information, USCIS may issue an RFE requesting the missing items.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;insufficient-supporting-evidence&quot;&gt;Insufficient Supporting Evidence&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;USCIS may ask for additional evidence to support the claims made in the application. This can include proof of relationships, employment history, financial support, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;credential-evaluation&quot;&gt;Credential Evaluation&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;For educational or professional credentials obtained outside the United States, USCIS might request an evaluation from a recognized credential evaluation service to determine the equivalence of foreign degrees or qualifications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;proof-of-eligibility&quot;&gt;Proof of Eligibility&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Applicants may be asked to provide additional proof of eligibility, particularly when it comes to demonstrating qualifications for specific visa categories.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;proof-of-relationship&quot;&gt;Proof of Relationship&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;In family-based immigration cases, USCIS may seek additional evidence to establish the bona fide nature of relationships, such as marriage certificates, birth certificates, or other relevant documents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;employment-based-cases&quot;&gt;Employment-Based Cases&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;In cases where the applicant is sponsored for employment, USCIS might issue an RFE seeking more information about the job offer, the employer, or the beneficiary’s qualifications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;affidavits-and-letters-of-support&quot;&gt;Affidavits and Letters of Support&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;USCIS may request additional affidavits or letters of support to corroborate information provided in the application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;medical-examination&quot;&gt;Medical Examination&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If an applicant is required to undergo a medical examination as part of the immigration process, USCIS may issue an RFE if the medical report is missing or incomplete.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s important for applicants to carefully review the RFE, understand the specific requests, and provide a comprehensive and timely response. Seeking guidance from an immigration attorney can be beneficial in addressing RFEs effectively. Keep in mind that the nature of RFEs can vary based on the specific immigration category and individual circumstances.&lt;/p&gt;
+
+&lt;h1 id=&quot;responding-to-a-uscis-request-for-evidence-rfe&quot;&gt;Responding to a USCIS Request for Evidence (RFE)&lt;/h1&gt;
+
+&lt;h3 id=&quot;review-the-rfe&quot;&gt;Review the RFE&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Carefully read the entire RFE notice to understand the specific issues or information that USCIS is requesting. Make note of the documents or evidence needed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;create-a-checklist&quot;&gt;Create a Checklist&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Organize the requested documents and information into a checklist. Ensure that you gather all necessary items before preparing your response.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;understand-the-deadline&quot;&gt;Understand the Deadline&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Take note of the deadline mentioned in the RFE notice. It’s crucial to submit your response before the specified date to avoid delays or potential denials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;prepare-a-cover-letter&quot;&gt;Prepare a Cover Letter&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Write a cover letter that clearly addresses each point raised in the RFE. Use the cover letter to provide explanations, clarifications, and additional information requested.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;compile-supporting-documents&quot;&gt;Compile Supporting Documents&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gather all the necessary documents and evidence requested in the RFE. Make sure the documents are legible, organized, and clearly labeled. Include photocopies rather than original documents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;address-each-point&quot;&gt;Address Each Point&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Respond to each specific point raised in the RFE thoroughly and directly. Clearly explain and provide evidence to support your case. If certain information is not applicable, provide a concise explanation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;professional-language&quot;&gt;Professional Language&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use professional and respectful language in your response. Clearly communicate your case without unnecessary elaboration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;consult-an-immigration-attorney&quot;&gt;Consult an Immigration Attorney&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you find the RFE confusing or if you’re unsure about how to address certain issues, consider seeking the guidance of an immigration attorney. They can provide valuable insights and ensure that your response meets USCIS requirements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;send-via-certified-mail&quot;&gt;Send Via Certified Mail&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;When submitting your response, send it using a traceable and reliable method, such as certified mail with return receipt requested. This helps you track the delivery and provides proof that USCIS received your response.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;keep-a-copy&quot;&gt;Keep a Copy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make copies of your entire response, including the cover letter and all supporting documents, for your records. This is important for your reference and in case there are any future inquiries.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Remember, the key is to be thorough, accurate, and timely in your response. If you have any doubts or concerns, consulting with an immigration attorney can significantly improve the quality of your response and increase the chances of a favorable outcome.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-to-avoid-rfe&quot;&gt;How to avoid RFE&lt;/h1&gt;
+
+&lt;p&gt;While it’s not possible to guarantee that an application will never receive a Request for Evidence (RFE) from the United States Citizenship and Immigration Services (USCIS), there are steps you can take to minimize the likelihood of receiving one. Here are some tips to help avoid RFEs:&lt;/p&gt;
+
+&lt;h3 id=&quot;thoroughly-understand-requirements&quot;&gt;Thoroughly Understand Requirements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Before submitting your application, carefully review the USCIS guidelines and requirements for the specific immigration benefit you are seeking. Ensure that you meet all eligibility criteria and provide all necessary documentation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;complete-and-accurate-forms&quot;&gt;Complete and Accurate Forms&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fill out all application forms accurately and completely. Double-check your answers and ensure that there are no errors or omissions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;organize-supporting-documents&quot;&gt;Organize Supporting Documents&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Submit well-organized and legible supporting documents. Clearly label each document and arrange them in a logical order. Providing a table of contents can make it easier for USCIS officers to navigate through your submission.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;follow-uscis-instructions&quot;&gt;Follow USCIS Instructions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adhere to the USCIS instructions provided for each form and application. Failure to follow instructions may result in an RFE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;provide-translations&quot;&gt;Provide Translations&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If any of your supporting documents are not in English, provide accurate and certified translations. USCIS requires translations for documents in languages other than English.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;use-updated-forms&quot;&gt;Use Updated Forms&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make sure you are using the most recent versions of USCIS forms. Outdated forms may result in processing delays or an RFE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;check-for-updates-and-policy-changes&quot;&gt;Check for Updates and Policy Changes&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stay informed about any changes in immigration laws, policies, or procedures. USCIS may issue updates or changes in requirements that could affect your application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;seek-legal-advice&quot;&gt;Seek Legal Advice&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you have any concerns about the application process or if your case is particularly complex, consider consulting with an immigration attorney. They can provide guidance on preparing a strong and complete application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;include-a-cover-letter&quot;&gt;Include a Cover Letter&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Submit a well-written cover letter that provides a clear overview of your case. This can help USCIS officers understand the purpose of your application and navigate through the supporting documents.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;maintain-consistency&quot;&gt;Maintain Consistency&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ensure consistency in the information provided across different forms and supporting documents. Inconsistencies may raise questions and lead to an RFE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While these tips can help reduce the likelihood of an RFE, it’s important to note that some cases may still receive requests for additional evidence.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-notice-of-intent-to-deny-noid&quot;&gt;What is A Notice of Intent to Deny (NOID)?&lt;/h1&gt;
+
+&lt;p&gt;A Notice of Intent to Deny (NOID) is a communication from the United States Citizenship and Immigration Services (USCIS) indicating the agency’s intention to deny an immigration application or petition. It is issued when the USCIS officer reviewing the application believes that there is insufficient evidence or legal basis to approve the application as submitted.&lt;/p&gt;
+
+&lt;p&gt;The NOID typically outlines the specific reasons for the potential denial and provides the applicant with an opportunity to address those concerns. It may request additional evidence, clarification, or legal arguments to support the application. The notice will specify a deadline by which the applicant must respond.&lt;/p&gt;
+
+&lt;p&gt;Key points about the Notice of Intent to Deny (NOID):&lt;/p&gt;
+
+&lt;h3 id=&quot;reasons-for-intent-to-deny&quot;&gt;Reasons for Intent to Deny&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The NOID will clearly state the reasons why the USCIS is considering a denial. This could be due to issues such as lack of evidence, eligibility concerns, or failure to meet specific legal requirements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;response-required&quot;&gt;Response Required&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The applicant must respond to the NOID within the specified timeframe. Failure to respond or inadequate responses may result in the denial of the application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;provide-adequate-documentation&quot;&gt;Provide Adequate Documentation&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;When responding to a NOID, it is crucial to address each concern raised by the USCIS and provide additional documentation or clarification to overcome the stated grounds for potential denial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;legal-assistance&quot;&gt;Legal Assistance&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If the issues raised in the NOID are complex or if you are uncertain about how to address them, seeking the advice of an immigration attorney can be beneficial. An attorney can help formulate a strong response and navigate the legal aspects of the process.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s important for applicants to take NOIDs seriously and respond comprehensively within the given timeframe. If the issues raised in the NOID are adequately addressed, the USCIS may reconsider and approve the application. However, if no response is submitted or if the response is insufficient, the application is likely to be denied.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 04 Mar 2024 00:00:00 -0800</pubDate>
+                <link>https://gcinfo.org/blog/how-to-respond-to-uscis-rfe</link>
+                <guid isPermaLink="true">https://gcinfo.org/blog/how-to-respond-to-uscis-rfe</guid>
+                
+                <category>uscis</category>
+                
+                <category>green-card</category>
+                
+                <category>rfe</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>How to Read a Green Card: Explained!</title>
+                <description>&lt;p&gt;A green card (GC), officially known as a Permanent Resident (PR) Card, is an identification card that signifies an individual’s status as a lawful permanent resident of the United States. It contains important information about the cardholder. USCIS introduced latest version of Green Card in Jan-2023. USCIS continuously improves design in order to address security measures, but it will not invalidate old cards.&lt;/p&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-content&quot;&gt;Table of Content&lt;/h2&gt;
+&lt;ul class=&quot;cs-toc-section&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#new-design-improvements&quot; id=&quot;markdown-toc-new-design-improvements&quot;&gt;New Design Improvements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#front-of-a-green-card&quot; id=&quot;markdown-toc-front-of-a-green-card&quot;&gt;Front of a Green Card&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#full-name&quot; id=&quot;markdown-toc-full-name&quot;&gt;Full Name&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#country-of-birth&quot; id=&quot;markdown-toc-country-of-birth&quot;&gt;Country of Birth&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#uscis&quot; id=&quot;markdown-toc-uscis&quot;&gt;USCIS#&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#category-code&quot; id=&quot;markdown-toc-category-code&quot;&gt;Category Code&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#date-of-birth&quot; id=&quot;markdown-toc-date-of-birth&quot;&gt;Date of Birth&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sex&quot; id=&quot;markdown-toc-sex&quot;&gt;Sex&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#resident-since&quot; id=&quot;markdown-toc-resident-since&quot;&gt;Resident Since&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#card-expires&quot; id=&quot;markdown-toc-card-expires&quot;&gt;Card Expires&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#back-of-a-green-card&quot; id=&quot;markdown-toc-back-of-a-green-card&quot;&gt;Back of a Green Card&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#barcode&quot; id=&quot;markdown-toc-barcode&quot;&gt;Barcode&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#machine-readable-zone-mrz&quot; id=&quot;markdown-toc-machine-readable-zone-mrz&quot;&gt;Machine-Readable Zone (MRZ)&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#first-line&quot; id=&quot;markdown-toc-first-line&quot;&gt;First Line&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#second-line&quot; id=&quot;markdown-toc-second-line&quot;&gt;Second Line&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#third-line&quot; id=&quot;markdown-toc-third-line&quot;&gt;Third Line&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;new-design-improvements&quot;&gt;New Design Improvements&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gc/gc-versions/gc-2023-improvements.jpg&quot; loading=&quot;lazy&quot; alt=&quot;2023 Green Card improvements&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a general guide on how to read a green card:&lt;/p&gt;
+
+&lt;h1 id=&quot;front-of-a-green-card&quot;&gt;Front of a Green Card&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gc/gc-versions/gc-2023-present-front.jpg&quot; loading=&quot;lazy&quot; alt=&quot;2023 Green Card back&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;full-name&quot;&gt;Full Name&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Your legal name is printed at two places. If your full name is long then some characters may be truncated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;country-of-birth&quot;&gt;Country of Birth&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The cardholder’s country of birth is mentioned on the card.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;uscis&quot;&gt;USCIS#&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is cardholder’s alien registration number or “A-number”. This is a unique identification number assigned to the cardholder. See, &lt;a href=&quot;http://localhost:4000/blog/what-is-uscis-a-number&quot;&gt;What is USCIS A-Number&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;category-code&quot;&gt;Category Code&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The category code indicates the basis for the individual’s eligibility for permanent residency. See, &lt;a href=&quot;http://localhost:4000/blog/gc-category-codes&quot;&gt;Green Card Category Codes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;date-of-birth&quot;&gt;Date of Birth&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The cardholder’s date of birth.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sex&quot;&gt;Sex&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The gender of the cardholder.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resident-since&quot;&gt;Resident Since&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The date when the cardholder became a permanent resident of the United States.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;card-expires&quot;&gt;Card Expires&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is the expiry date of Green Card. Normaly card will have validity period of 10 years.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;back-of-a-green-card&quot;&gt;Back of a Green Card&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gc/gc-versions/gc-2023-present-back.jpg&quot; loading=&quot;lazy&quot; alt=&quot;2023 Green Card front&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The back of a U.S. Permanent Resident Card, commonly known as a green card (Form I-551), contains important information as well. Here’s an explanation of the typical elements you will find on the back of a green card:&lt;/p&gt;
+
+&lt;h3 id=&quot;barcode&quot;&gt;Barcode&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;A barcode is often present, containing encoded information related to the cardholder. This barcode facilitates quick and accurate data retrieval when the card is scanned.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;machine-readable-zone-mrz&quot;&gt;Machine-Readable Zone (MRZ)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The MRZ is a series of numbers and characters at the bottom of the card, which can be read by machines. It contains information similar to what is displayed on the front of the card, allowing for automated processing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;first-line&quot;&gt;First Line&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Characters 1–2: C1 or C2. (C1 = Resident within the United States C2 = Permanent Resident commuter living in Canada or Mexico)&lt;/li&gt;
+  &lt;li&gt;Characters 3–5: USA (issuing country, United States)&lt;/li&gt;
+  &lt;li&gt;Characters 6–14: 9-digit number (Alien Number or A-Number)&lt;/li&gt;
+  &lt;li&gt;Character 15: Application receipt number&lt;/li&gt;
+  &lt;li&gt;Characters 16–30: Immigrant’s case number. The “&amp;lt;” symbol represents a blank space&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;second-line&quot;&gt;Second Line&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Characters 1-6: Birth date (in YY/MM/DD format)&lt;/li&gt;
+  &lt;li&gt;Character 7: not documented, maybe a check digit&lt;/li&gt;
+  &lt;li&gt;Character 8: Gender&lt;/li&gt;
+  &lt;li&gt;Characters 9-14: Expiration date (in YY/MM/DD format)&lt;/li&gt;
+  &lt;li&gt;Character 15: Not documented, maybe a check digit&lt;/li&gt;
+  &lt;li&gt;Characters 16-29: Country of birth&lt;/li&gt;
+  &lt;li&gt;Character 30: Not documented, maybe a check digit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;third-line&quot;&gt;Third Line&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Last name, first name, middle name, first initial of father, first initial of mother (this line is spaced with “«” between the last name and first name). Depending on the length of the
+name, the father’s and mother’s initials may be omitted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Always ensure that the information on the green card matches the details of the cardholder. If there are any errors or discrepancies, it’s essential to contact the U.S. Citizenship and Immigration Services (USCIS) to rectify them. Additionally, it’s crucial to be aware of the card’s expiration date and take necessary steps to renew it before it expires.&lt;/p&gt;
+
+</description>
+                <pubDate>Sun, 03 Mar 2024 00:00:00 -0800</pubDate>
+                <link>https://gcinfo.org/blog/how-to-read-green-card</link>
+                <guid isPermaLink="true">https://gcinfo.org/blog/how-to-read-green-card</guid>
+                
+                <category>uscis</category>
+                
+                <category>green-card</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>USCIS EAD Category Codes</title>
+                <description>&lt;p&gt;USCIS Employment Authorization Card (EAD) is used as a work permit. Once you receive AOS EAD in EB1, EB2 or EB3 category, check for below codes marked on the card. If code is not correct then discuss with your attorney. You will have to get this corrected as soon as possible to avoid any delays in work. If it is combo (EAD-AP) card then it may affect your travel also.&lt;/p&gt;
+
+&lt;h4 id=&quot;new-card&quot;&gt;New Card&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ead/ead-card-category-code-800-3.jpg&quot; alt=&quot;Category Code on EAD Card&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;uscis-employment-authorization-card-ead-category-codes&quot;&gt;USCIS Employment Authorization Card (EAD) Category Codes&lt;/h1&gt;
+
+&lt;table class=&quot;cs-table&quot;&gt; 
+&lt;tr&gt;&lt;th&gt;USCIS EAD Category Code&lt;/th&gt;&lt;th&gt;EAD Category Description&lt;/th&gt;&lt;th&gt;180 Days Automatic Extension&lt;/th&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;A02&lt;/td&gt;&lt;td&gt;A lawful temporary resident pursuant to sections 245A or 210 of the INA&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;A02&lt;/td&gt;&lt;td&gt;A lawful temporary resident pursuant to sections 245A or 210 of the INA&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A03&lt;/td&gt;&lt;td&gt;Refugee&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A04&lt;/td&gt;&lt;td&gt;Paroled as refugee&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A05&lt;/td&gt;&lt;td&gt;Asylee (granted asylum)&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A06&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;K1 non-immigrant fiancé(e) of US Citizen&lt;/li&gt;&lt;li&gt;K2 child of K1&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A07&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;N-8 Parent of international organization employee granted permanent residence&lt;/li&gt;&lt;li&gt;N-9 Dependent Child of international organization employee granted permanent residence&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A08&lt;/td&gt;&lt;td&gt;Citizen of Micronesia,
+the Marshall Islands or Palau admitted as a nonimmigrant&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A09&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;K-3 nonimmigrant spouse of USC&lt;/li&gt;&lt;li&gt;K-4 child of K-3&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A10&lt;/td&gt;&lt;td&gt;Granted Withholding of Deportation or Removal&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A11&lt;/td&gt;&lt;td&gt;Deferred Enforced Departure (DED)&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A12&lt;/td&gt;&lt;td&gt;Temporary Protected Status (TPS) granted under 8 CFR 244.12&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A13&lt;/td&gt;&lt;td&gt;IMMACT Family Unity beneficiary(Section 301 of the Immigration Act of 1990)&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A14&lt;/td&gt;&lt;td&gt;LIFE Act Family Unity beneficiary(Section 1504 of the Legal Immigrant Family Equity (LIFE) Act Amendments)&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A15&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;V-1 Spouse of Lawful Permanent Resident&lt;/li&gt;&lt;li&gt;V-2 Minor unmarried child of Lawful Permanent Resident&lt;/li&gt;&lt;li&gt;V-3 Minor unmarried child of V-1 or V-2&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A16&lt;/td&gt;&lt;td&gt;T-1 nonimmigrant (victims of severe forms of trafficking)&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A17&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Spouse of E-1/E-2 Treaty Trader/Investor&lt;/li&gt;&lt;li&gt;Spouse of E-3 specialty occupation professional from Australia&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;Yes*(*timely filing before I-94 expiry)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A18&lt;/td&gt;&lt;td&gt;L2 spouse of an L1 visa intracompany transfer&lt;/td&gt;&lt;td&gt;Yes*(*timely filing before I-94 expiry)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A19&lt;/td&gt;&lt;td&gt;U1 nonimmigrant (victims of certain criminal activity)&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;A20&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;U-2 spouse of U-1 aliens&lt;/li&gt;&lt;li&gt;U-3 children of U-1 aliens&lt;/li&gt;&lt;li&gt;U-4 parents of minor U-1 aliens (16 or under)&lt;/li&gt;&lt;li&gt;U-5 unmarried sibling under age 18 of U-1 alien under age 21&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C01&lt;/td&gt;&lt;td&gt;Dependent of A-1 or A-2 foreign government official&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C02&lt;/td&gt;&lt;td&gt;Dependent of TECRO (Taipei Economic and Cultural Representative Office) E-1 Non-immigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C03A&lt;/td&gt;&lt;td&gt;Pre-completion OPT F1 visa students&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C03B&lt;/td&gt;&lt;td&gt;Post-completion OPT F1 visa students&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C03C&lt;/td&gt;&lt;td&gt;24-month extension for Science, Technology, Engineering, or Mathematics (STEM) OPT students&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C03(ii)&lt;/td&gt;&lt;td&gt;F-1 student offered off-campus employment under the Sponsorship of Qualifying International Organization&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C03(iii)&lt;/td&gt;&lt;td&gt;F-1 student seeking off-campus employment due to severe economic hardship&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C04&lt;/td&gt;&lt;td&gt;Spouse or unmarried dependent child of G-1, G-3 or G-4 nonimmigrant (Representative of International Organization and their dependents)&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C05&lt;/td&gt;&lt;td&gt;J-2 spouse or minor child of a J-1 exchange visitor&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C06&lt;/td&gt;&lt;td&gt;M-1 student seeking practical training after completing studies&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C07&lt;/td&gt;&lt;td&gt;Dependent of NATO-1 through NATO-7 nonimmigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C08&lt;/td&gt;&lt;td&gt;Asylum applicant (w/ pending asylum application) who filed for asylum on or after January 4, 1995&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C09&lt;/td&gt;&lt;td&gt;Adjustment of status applicant&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C10&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Suspension of deportation applicants (filed before April 1, 1997)&lt;/li&gt;&lt;li&gt;Cancellation of Removal applicants&lt;/li&gt;&lt;li&gt;Cancellation applicants under NACARA&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C11&lt;/td&gt;&lt;td&gt;An alien paroled into the United States in the public interest or temporarily for emergency reasons&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C12&lt;/td&gt;&lt;td&gt;Spouse of an E-2 Commonwealth of the Northern Mariana Islands (CNMI) investor;
+eligible for employment in the CNMI only&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C14&lt;/td&gt;&lt;td&gt;Alien granted deferred action&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C16&lt;/td&gt;&lt;td&gt;Registry applicant based on continuous residence since January 1,
+1972&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C17(i)&lt;/td&gt;&lt;td&gt;B1 nonimmigrant who is the personal or domestic servant of a nonimmigrant employer&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C17(ii)&lt;/td&gt;&lt;td&gt;B1 nonimmigrant domestic servant of a U.S. citizen&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C17(iii)&lt;/td&gt;&lt;td&gt;B1 nonimmigrant employed by foreign airline&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C18&lt;/td&gt;&lt;td&gt;Alien with a final order of deportation/order of supervision;
+&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C19&lt;/td&gt;&lt;td&gt;Temporary Protected Status applicant under 8 CFR 244.5&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C20&lt;/td&gt;&lt;td&gt;Alien who has filed a completed legalization application for special agricultural workers&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C21&lt;/td&gt;&lt;td&gt;S visa non-immigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C22&lt;/td&gt;&lt;td&gt;Alien who has filed a completed legalization application under INA 245A&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C23&lt;/td&gt;&lt;td&gt;Irish peace process (Q-2)&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C24&lt;/td&gt;&lt;td&gt;LIFE legalization applicant&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C25&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;T-2 spouse of T-1,
+victim of trafficking&lt;/li&gt;&lt;li&gt;T-3 child of T-1&lt;/li&gt;&lt;li&gt;T-4 parent of T-1 (if T-1 is under age 21)&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C26&lt;/td&gt;&lt;td&gt;Certain H4 Visa spouses of H1B holders&lt;/td&gt;&lt;td&gt;Yes*(*timely filing before I-94 expiry)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C27&lt;/td&gt;&lt;td&gt;Abused spouse of an A nonimmigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C28&lt;/td&gt;&lt;td&gt;Abused spouse of an E-3 nonimmigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C29&lt;/td&gt;&lt;td&gt;Abused spouse of a G nonimmigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C30&lt;/td&gt;&lt;td&gt;Abused spouse of an H nonimmigrant&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C31&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;The principal beneficiary of an approved VAWA self-petition&lt;/li&gt;&lt;li&gt;Qualified child of a beneficiary of an approved VAWA self-petition&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C33&lt;/td&gt;&lt;td&gt;An alien who has been granted Deferred Action for Childhood Arrivals (DACA)&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C35&lt;/td&gt;&lt;td&gt;The principal beneficiary of an approved employment-based immigrant petition facing compelling circumstances&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;C36&lt;/td&gt;&lt;td&gt;Spouse or unmarried child of a principal beneficiary of an approved employment-based immigrant petition facing compelling circumstances&lt;/td&gt;&lt;td&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+</description>
+                <pubDate>Thu, 18 Aug 2022 00:00:00 -0700</pubDate>
+                <link>https://gcinfo.org/blog/uscis-ead-category-codes</link>
+                <guid isPermaLink="true">https://gcinfo.org/blog/uscis-ead-category-codes</guid>
+                
+                <category>green-card</category>
+                
+                <category>uscis</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>How to find visa number on US visa</title>
+                <description>&lt;p&gt;The visa number, also called the visa foil number, is usually printed at the bottom right side of the visa stamp in a red color. US visa number consists of eight numeric characters. However, it may begin with one letter, followed by seven numbers. The number is randomly generated, and it does not have any meaning.&lt;/p&gt;
+
+&lt;p&gt;Example visa numbers: 87654321 or A0001234.&lt;/p&gt;
+
+&lt;h2 id=&quot;location-of-the-us-visa-number&quot;&gt;Location of the US Visa number&lt;/h2&gt;
+&lt;p&gt;Here is example which shows visa number.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gcinfo.org/images/blog/2022/06/immigrant-visa-number-marked.jpg&quot; alt=&quot;Immigrant Visa Number&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;visa-number-validity&quot;&gt;Visa number validity&lt;/h2&gt;
+&lt;p&gt;The validity of a visa number depends on the type of visa. If the visa is granted as a nonimmigrant visa, then the visa number is valid only until the expiration of the petition. If a visa is granted for a Green Card, then the number is permanent and will never change.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-information-on-visa&quot;&gt;Other information on Visa&lt;/h2&gt;
+&lt;p&gt;US visa also contains following information besides the visa number:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Issuing Port Name – U.S. embassy location from where the visa is issued.&lt;/li&gt;
+  &lt;li&gt;Visa Holder’s Last name&lt;/li&gt;
+  &lt;li&gt;Visa Holder’s First Name&lt;/li&gt;
+  &lt;li&gt;Sex – indicates the gender of the person as F (female) or M (male)&lt;/li&gt;
+  &lt;li&gt;Date of Birth&lt;/li&gt;
+  &lt;li&gt;Nationality&lt;/li&gt;
+  &lt;li&gt;Passport Number&lt;/li&gt;
+  &lt;li&gt;Visa type/Class – indicates the type of visa, example H1B, B1/B2, K-1&lt;/li&gt;
+  &lt;li&gt;Entries – S for single entry and M for multiple entries, It indicates the number of times visa can be used to enter US.&lt;/li&gt;
+  &lt;li&gt;Issuing Date – visa issue date&lt;/li&gt;
+  &lt;li&gt;Expiration Date – visa expiry date. you cannot enter US after this date.&lt;/li&gt;
+  &lt;li&gt;Annotations – notes by the US embassy. example: name of your spouse, or employer etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-get-a-us-visa-number&quot;&gt;How to get a US Visa Number?&lt;/h2&gt;
+
+&lt;p&gt;Visa number will be printed on the visa, and there is no need to apply for it separately. To get a visa, you must apply for a US visa. Once the US Embassy approves your application, you can go for a visa stamping. Here is the normal procedure:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Apply for a US visa&lt;/li&gt;
+  &lt;li&gt;Keep ready medical records, identification, income documents, etc.&lt;/li&gt;
+  &lt;li&gt;Attend a visa interview&lt;/li&gt;
+  &lt;li&gt;US Embassy will take the decision to approve or reject&lt;/li&gt;
+  &lt;li&gt;After approval, you will receive a visa-stamped passport; Visa number will be on it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-immigrant-visa-number&quot;&gt;What is Immigrant Visa Number?&lt;/h2&gt;
+
+&lt;p&gt;Immigrant visa numbers are different from nonimmigrant visa numbers. Immigrant visa number is provided for the Green Card. USCIS gives only a certain number of Green Cards every year. If a Green Card application is approved, it is not guaranteed that a visa number will be allocated. This is the reason there is a backlog for Green Cards. People from countries like India wait for more than 10 years to get their Green Card in the employment-based category. Family-based immigrant visa numbers are easy to get as availability is higher compared to employment-based category.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-nonimmigrant-visa-number&quot;&gt;What is Nonimmigrant Visa Number?&lt;/h2&gt;
+
+&lt;p&gt;USCIS issues nonimmigrant visas for foreign nationals who are visiting the US for a short duration, example: work, study, tourism. It is granted only for a temporary stay in the US.&lt;/p&gt;
+
+</description>
+                <pubDate>Tue, 21 Jun 2022 00:00:00 -0700</pubDate>
+                <link>https://gcinfo.org/blog/how-to-find-visa-number-on-us-visa</link>
+                <guid isPermaLink="true">https://gcinfo.org/blog/how-to-find-visa-number-on-us-visa</guid>
+                
+                <category>visa</category>
+                
+                <category>uscis</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>What is USCIS A-Number and where can I find it?</title>
+                <description>&lt;p&gt;An Alien Registration Number (“A-Number”, “Alien Number” or “USCIS Number”) is a 8 to 9 digit number that USCIS (U.S. Citizenship and Immigration Services) uses to identify immigrants who apply permanent residency in the United States.&lt;/p&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-content&quot;&gt;Table of Content&lt;/h2&gt;
+&lt;ul class=&quot;cs-toc-section&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#where-can-i-find-uscis-a-number-alien-registration-number&quot; id=&quot;markdown-toc-where-can-i-find-uscis-a-number-alien-registration-number&quot;&gt;Where can I find USCIS A-Number (Alien Registration Number)?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-do-i-get-an-alien-registration-number-a-number&quot; id=&quot;markdown-toc-how-do-i-get-an-alien-registration-number-a-number&quot;&gt;How do I get an Alien Registration Number (A-Number)?&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-a-green-card&quot; id=&quot;markdown-toc-a-number-on-a-green-card&quot;&gt;A-Number on a Green Card&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-a-old-green-card&quot; id=&quot;markdown-toc-a-number-on-a-old-green-card&quot;&gt;A-Number on a old Green Card&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-i-797c-notice-of-action&quot; id=&quot;markdown-toc-a-number-on-i-797c-notice-of-action&quot;&gt;A-Number on I-797C Notice of Action&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-an-ead&quot; id=&quot;markdown-toc-a-number-on-an-ead&quot;&gt;A-Number on an EAD&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-immigrant-data-summary&quot; id=&quot;markdown-toc-a-number-on-immigrant-data-summary&quot;&gt;A-Number on Immigrant Data Summary&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-immigrant-fee-handout&quot; id=&quot;markdown-toc-a-number-on-immigrant-fee-handout&quot;&gt;A-Number on Immigrant Fee Handout&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-immigrant-visa&quot; id=&quot;markdown-toc-a-number-on-immigrant-visa&quot;&gt;A-Number on Immigrant Visa&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-i-140-approval-notice&quot; id=&quot;markdown-toc-a-number-on-i-140-approval-notice&quot;&gt;A-Number on I-140 Approval Notice&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-number-on-h1b-receipt-notice&quot; id=&quot;markdown-toc-a-number-on-h1b-receipt-notice&quot;&gt;A-number on H1B Receipt Notice&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#understand-a-number&quot; id=&quot;markdown-toc-understand-a-number&quot;&gt;Understand A-Number&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;where-can-i-find-uscis-a-number-alien-registration-number&quot;&gt;Where can I find USCIS A-Number (Alien Registration Number)?&lt;/h3&gt;
+&lt;p&gt;On permanent resident card (green card), you can find Alien Registration Number on the front side. It is also embedded within the characters on the backside of card as well. The A-Number is listed in format “A000-000-000”, your A-Number is the letter “A” followed by 8 or 9 numbers (such as A012345678). USCIS uses A-Number to track immigration files. It is very important number and every immigrant individual gets this number.&lt;/p&gt;
+
+&lt;p&gt;You can find your A-Number on below listed documents:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Permanent Resident Green Card&lt;/li&gt;
+  &lt;li&gt;Employment Authorization Document.&lt;/li&gt;
+  &lt;li&gt;Immigrant Visa.&lt;/li&gt;
+  &lt;li&gt;I-485 Receipt or approval notice&lt;/li&gt;
+  &lt;li&gt;I-131 receipt or approval notice&lt;/li&gt;
+  &lt;li&gt;I-140 receipt or approval notice&lt;/li&gt;
+  &lt;li&gt;H1B Receipt Notice (some cases)&lt;/li&gt;
+  &lt;li&gt;I-797C Notice of Action (some cases)&lt;/li&gt;
+  &lt;li&gt;Immigrant Fee Handout&lt;/li&gt;
+  &lt;li&gt;Immigrant Data Summary&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-do-i-get-an-alien-registration-number-a-number&quot;&gt;How do I get an Alien Registration Number (A-Number)?&lt;/h2&gt;
+&lt;p&gt;You don’t need to do anything to get A-number. USCIS assigns an A-Number to all immigrants who apply for Permanent Resident Card (Green Card) or immigrant visa.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-a-green-card&quot;&gt;A-Number on a Green Card&lt;/h3&gt;
+&lt;p&gt;If your Green card is issued after May 10, 2010, then your Alien Registration Number (A-Number) is the same as your nine-digit USCIS# marked in this example:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/green_card_a_number-2.jpg&quot; alt=&quot;USCIS A number on Green Card&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-a-old-green-card&quot;&gt;A-Number on a old Green Card&lt;/h3&gt;
+
+&lt;p&gt;If your Green Card is issued between 2004 and May 10, 2010, then your Alien Registration Number (A-Number) will appear on your card as shown below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/old_green_card_a_number-2.jpg&quot; alt=&quot;USCIS A number on Old Green Card&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-i-797c-notice-of-action&quot;&gt;A-Number on I-797C Notice of Action&lt;/h3&gt;
+&lt;p&gt;Your I-797C Notice of Action from USCIS contains your A-Number.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/I-797C_Notice_a_number.jpg&quot; alt=&quot;USCIS A number on I-797C Notice of Action&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-an-ead&quot;&gt;A-Number on an EAD&lt;/h3&gt;
+
+&lt;p&gt;On Employment Authorization Document (work permit) card. A-Number is listed as “000-000-811” underneath USCIS#.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/ead_a_number.jpg&quot; alt=&quot;USCIS A number on EAD Card&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-immigrant-data-summary&quot;&gt;A-Number on Immigrant Data Summary&lt;/h3&gt;
+&lt;p&gt;If green card is applied through consular processing (applied for green card at a U.S. embassy or consulate), then it will be on Data Summary stapled to the front of your immigrant visa package. You can find A-Number at the top of the Immigrant Data Summary.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/immigrant-data-summary-a-number.jpg&quot; alt=&quot;USCIS A number on Immigrant Data Summary&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-immigrant-fee-handout&quot;&gt;A-Number on Immigrant Fee Handout&lt;/h3&gt;
+&lt;p&gt;If green card is applied through consular processing, the immigration officer probably gave you a USCIS Immigrant Fee handout. This document includes your A-Number in the top right corner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/immigrant-fee-handout-a-number.jpg&quot; alt=&quot;USCIS A number on Immigrant Fee Handout&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-immigrant-visa&quot;&gt;A-Number on Immigrant Visa&lt;/h3&gt;
+&lt;p&gt;You can also find A number on Immigrant Visa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/Immigrant-Visa-a-number-3.jpg&quot; alt=&quot;USCIS A number on Immigrant Visa&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-i-140-approval-notice&quot;&gt;A-Number on I-140 Approval Notice&lt;/h3&gt;
+&lt;p&gt;USCIS Alien number on I-140 approval notice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/I140-A-number.jpeg&quot; alt=&quot;USCIS A number on I-140 Approval Notice&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-number-on-h1b-receipt-notice&quot;&gt;A-number on H1B Receipt Notice&lt;/h3&gt;
+&lt;p&gt;Normally, the A-Number is not listed on an H-1B receipt notice or approval notice. However, if your employer files H-1B visa for you (typically H-1B extension) after your I-140 is already approved, the receipt notice will have the A-Number.
+It will be listed under the “BENFICIARY” column, where it will have both your A-Number as well as your name.
+In such a case, the H-4 visa receipt notice will still not have an A-Number.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2022/06/a-number/h1b-notice-a-number.jpg&quot; alt=&quot;USCIS A number on H1B Receipt Notice&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;understand-a-number&quot;&gt;Understand A-Number&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/vAC42yQZaUQ&quot; loading=&quot;lazy&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+</description>
+                <pubDate>Mon, 20 Jun 2022 00:00:00 -0700</pubDate>
+                <link>https://gcinfo.org/blog/what-is-uscis-a-number</link>
+                <guid isPermaLink="true">https://gcinfo.org/blog/what-is-uscis-a-number</guid>
+                
+                <category>uscis</category>
+                
+                <category>a-number</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Green Card Category Codes</title>
+                <description>&lt;p&gt;Green Card category code on card shows under which category Green Card is issued. Category code starts with an alphabet followed by a two or three digit alphanumeric characters. example, E26, E39 etc&lt;/p&gt;
+
+&lt;p&gt;After receiving Green Card in EB1, EB2 or EB3 category, check for below codes marked on the card. If code is not correct then discuss with your attorney. You will have to get this corrected as soon as possible to avoid any delays in work/travel.&lt;/p&gt;
+
+&lt;h4 id=&quot;new-card&quot;&gt;New Card&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/gc/green-card-category-code.jpg&quot; alt=&quot;Category Code on Green Card&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;old-card&quot;&gt;Old Card&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/gc/green-card-category-code-old.jpg&quot; alt=&quot;Category Code on Green Card&quot; /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;cs-table cs-table-th-maroon&quot;&gt; 
+&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;For EB1&lt;/th&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;E10&lt;/td&gt;&lt;td&gt;Children of E11, E12, E13, E16, E17, or E18, adjustments of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E11&lt;/td&gt;&lt;td&gt;Aliens with extraordinary ability, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E12&lt;/td&gt;&lt;td&gt;0utstanding professors or researchers, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E13&lt;/td&gt;&lt;td&gt;Multinational executives or managers, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E14&lt;/td&gt;&lt;td&gt;Spouses of E11, E12, E13, E16, E17, or E18, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E15&lt;/td&gt;&lt;td&gt;Children of E11, E12, E13, E16, E17, or E18, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E16&lt;/td&gt;&lt;td&gt;Aliens with extraordinary ability, adjustments of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E17&lt;/td&gt;&lt;td&gt;Outstanding professors or researchers, adjustments of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E18&lt;/td&gt;&lt;td&gt;Multinational executives or managers, adjustments of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E19&lt;/td&gt;&lt;td&gt;Spouses of E11, E12, E13, E16, E17, or E18, adjustments of status&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;table class=&quot;cs-table&quot;&gt; 
+&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;For EB2&lt;/th&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;E21&lt;/td&gt;&lt;td&gt;Professional holding an advanced degree or of exceptional ability, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E22&lt;/td&gt;&lt;td&gt;Spouse of an alien classified as E21 or E26, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E23&lt;/td&gt;&lt;td&gt;Child of an alien classified as E21 or E26, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E26&lt;/td&gt;&lt;td&gt;Professional holding an advanced degree or of exceptional ability, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E27&lt;/td&gt;&lt;td&gt;Spouse of an alien classified as E21 or E26, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E28&lt;/td&gt;&lt;td&gt;Child of an alien classified as E21 or E26, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ES1&lt;/td&gt;&lt;td&gt;Soviet scientists, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ES6&lt;/td&gt;&lt;td&gt;Soviet scientists, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;cs-table cs-table-th-green&quot;&gt; 
+&lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;For EB3&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E30&lt;/td&gt;&lt;td&gt;Child of a skilled worker or professional classified as E31, E32, E36, or E37, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E31&lt;/td&gt;&lt;td&gt;Alien who is a skilled worker, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E32&lt;/td&gt;&lt;td&gt;Professional who holds a baccalaureate degree, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E34&lt;/td&gt;&lt;td&gt;Spouse of a skilled worker or professional classified as E31, E32, E36, or E37, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E35&lt;/td&gt;&lt;td&gt;Child of a skilled worker or professional classified as E31, E32, E36, or E37, new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E36&lt;/td&gt;&lt;td&gt;Alien who is a skilled worker, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E37&lt;/td&gt;&lt;td&gt;Professional who holds a baccalaureate degree, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;E39&lt;/td&gt;&lt;td&gt;Spouse of a skilled worker or professional classified as E31, E32, E36, or E37, adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EC6&lt;/td&gt;&lt;td&gt;Chinese Student Protection Act (CSPA) principals – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EC7&lt;/td&gt;&lt;td&gt;Spouses of EC6 – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EC8&lt;/td&gt;&lt;td&gt;Children of EC6 – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EW0&lt;/td&gt;&lt;td&gt;Children of EW3 or EW8 – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EW3&lt;/td&gt;&lt;td&gt;Needed unskilled workers – issued for new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EW4&lt;/td&gt;&lt;td&gt;Spouses of EW3 or EW8 – issued for new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EW5&lt;/td&gt;&lt;td&gt;Children of EW3 or EW8 – issued for new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EW8&lt;/td&gt;&lt;td&gt;Needed unskilled workers – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EW9&lt;/td&gt;&lt;td&gt;Spouses of EW3 or EW8 – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EX1&lt;/td&gt;&lt;td&gt;Schedule – A worker – issued for new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EX2&lt;/td&gt;&lt;td&gt;Spouses of EX1 or EX6 – issued for new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EX3&lt;/td&gt;&lt;td&gt;Children of EX1 or EX6 – issued for new arrivals&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EX6&lt;/td&gt;&lt;td&gt;Schedule – A worker – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EX7&lt;/td&gt;&lt;td&gt;Spouses of EX1 or EX6 – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;EX8&lt;/td&gt;&lt;td&gt;Children of EX1 or EX6 – issued for adjustment of status&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;h1 id=&quot;faq&quot;&gt;FAQ&lt;/h1&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Green Card Category Code and Green Card Number are same?&lt;/summary&gt;
+&lt;p&gt;No, they are not the same.&lt;/p&gt; 
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Green Card Category Code and EAD Category Code are same?&lt;/summary&gt;
+&lt;p&gt;No, even if code number is same but their meaning is different.&lt;/p&gt; 
+&lt;/details&gt;
+</description>
+                <pubDate>Sun, 19 Jun 2022 00:00:00 -0700</pubDate>
+                <link>https://gcinfo.org/blog/gc-category-codes</link>
+                <guid isPermaLink="true">https://gcinfo.org/blog/gc-category-codes</guid>
+                
+                <category>green-card</category>
+                
+                <category>uscis</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>
