@@ -1,0 +1,219 @@
+:root {
+  --cs-calendar-bg-color: #EDEDF1;
+}
+
+:root[dark] {
+  --cs-calendar-bg-color: #1A1A1F;
+}
+
+a.donate-link {
+	color: #02a95c; /* #04a54f*/
+}
+a.donate-link:hover {
+   color: #ff6600;  
+}
+
+.cs-check-mark {
+   list-style-type: none;
+ }
+ 
+ .cs-check-mark li::before {
+   font-family: "Material Icons";
+   content: "\e86c";
+   display: inline-block;
+   color: #0AB059;
+   font-weight: bold;
+   vertical-align: bottom;
+   margin-left: -2.2em;
+   margin-right: 0.4em;  
+   padding-left: 15px;
+ }
+ 
+ .cs-cross-mark {
+   list-style-type: none;
+ }
+ 
+ .cs-cross-mark li::before {
+   font-family: "Material Icons";
+   content: "\e5c9";
+   display: inline-block;
+   color: #F15E64;
+   font-weight: bold;
+   vertical-align: bottom;
+   margin-left: -2.2em;
+   margin-right: 0.4em;  
+   padding-left: 15px;
+ }
+
+.cs-calendar{
+  margin-top: 20px;
+  padding-top: 70px;
+  padding-bottom: 10px;
+  background-color: var(--cs-calendar-bg-color);
+} 
+
+.yellow-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #FFF8E6;
+  color: #4D3800;
+  border-left: solid 4px #E6A700;
+} 
+.blue-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #EEF9FD;
+  color: #193C48;
+  border-left: solid 4px #4CB3D4;
+} 
+.green-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #E6F6E6;
+  border-left: solid 4px #009400;
+  color: #003100;
+} 
+.red-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #FFEBEC;
+  border-left: solid 4px #E13238;
+  color: #4B1113;
+} 
+
+.cs-sponsored{
+margin-top: 30px;
+}
+
+.section-gallery-bg{
+  background-color: var(--gallery-bg-color);
+}
+.section-gallery__inner {
+  position: relative;
+  padding: 0 16px;
+}
+
+.section-gallery__inner .section-gallery__title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+  font-family: "Yellowtail", cursive;
+  font-size: 40px;
+  line-height: 1.25;
+  font-weight: normal;
+  color: var(--color-gold)
+}
+
+.section-gallery__inner .section-gallery__content {
+  display: grid;
+  grid-template-columns: repeat(6, auto)
+}
+
+.section-gallery__inner .section-gallery__content .section-gallery__image {
+  overflow: hidden;
+  border-radius: 22px;
+  background: var(--background-alt-color);
+  user-select: none
+}
+
+.section-gallery__inner .section-gallery__content .section-gallery__image:nth-child(odd) {
+  transform: rotate(-12deg)
+}
+
+.section-gallery__inner .section-gallery__content .section-gallery__image:nth-child(even) {
+  transform: rotate(12deg)
+}
+
+@media(max-width: 1024px) {
+  .section-gallery__inner {
+      padding: 0
+  }
+
+  .section-gallery__inner .section-gallery__title {
+      position: relative;
+      transform: translate(-50%, 0) rotate(-4deg);
+      font-size: 32px
+  }
+
+  .section-gallery__inner .section-gallery__content {
+      grid-template-columns: repeat(3, auto);
+      gap: 24px
+  }
+
+  .section-gallery__inner .section-gallery__content .section-gallery__image:nth-child(odd),
+  .section-gallery__inner .section-gallery__content .section-gallery__image:nth-child(even) {
+      transform: rotate(0)
+  }
+}
+
+@media(max-width: 768px) {
+  .section-gallery__inner .section-gallery__content {
+      gap: 16px
+  }
+
+  .section-gallery__inner .section-gallery__content .section-gallery__image {
+      border-radius: 12px
+  }
+}
+
+.hero__intro {
+  display: flex;
+  align-items: flex-end;
+  min-height: 50px;
+  margin-bottom: 8px;
+  transform: rotate(-4deg);
+  font-family: "Yellowtail", cursive;
+  font-size: 40px;
+  line-height: 1.25;
+  color: var(--brand-color)
+}
+
+@media(max-width: 1400px) {
+  .hero__intro {
+      font-size: 36px
+  }
+}
+
+@media(max-width: 768px) {
+  .hero__intro {
+      font-size: 32px
+  }
+}
+
+.cs-form-heading {
+  color: #02a95c; /* #e55b00;*/
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cs-green-text {
+	color: #02a95c; /* #04a54f */
+}
+
+.cs-green-text-bold {
+	color: #02a95c; /* #04a54f */
+  font-weight: bold;
+}
+
+.cs-blue-text {
+	color: #1975a3;
+}
+.cs-gold-text {
+	color: #D4AF37; /*D4AF37*/
+}
+.cs-red-text{
+  color: #E13238;
+}
+
+.cs-margin-top{
+  margin-top: 25px;
+}
+
+.cs-margin-bottom{
+  margin-bottom: 30px;
+}
+
+.cs-gradient-text{
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+

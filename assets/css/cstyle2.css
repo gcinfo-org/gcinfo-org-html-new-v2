@@ -1,0 +1,723 @@
+/*  --icon-color: #A38A00, 009966;*/
+:root {
+  --table-border-color: #dddddd;
+  --icon-color: #111;
+  --button-bg-color: white;
+  --faq-bg-color: #eee;  
+  --faq-question-color: #333;
+  --icon-bw-color: black;
+  --cs-span-color: #04aa6d; /* #006699 red CC0001*/
+  --cs-button-blue: #008CBA;
+  --shadowbox-color: rgba(0, 0, 0, 0.15);
+  --cs-table-color: black;
+  --cs-table-bg-color: white;
+  --cs-table-border: #ddd;
+  --gold-color: #db9200;
+  --cs-our-rating-span-color: #931fbf;
+  --cs-bottomline-infobox-bg-color: #F7F7F7;
+  --cs-bottomline-infobox-border-color: #F0533A;    
+  --cs-table-row-bg-color: #f2f2f2;
+  --cs-sticky-div-bg-color: #38444D;
+  --cs-sticky-shadowbox-color: rgba(255, 255, 255, 0.35);  
+}
+
+:root[dark] {
+  --table-border-color: #ffffff;
+  --icon-color: #eee;  
+  --button-bg-color: black;  
+  --faq-bg-color: #353e48;
+  --faq-question-color: #ffffcc;  
+  --icon-bw-color: white;
+  --cs-span-color: #04aa6d;  /* #0099e1 #00378A */
+  --cs-button-blue: #00ABFB;  
+  --shadowbox-color: rgba(255, 255, 255, 0.35);
+  --cs-table-color: white;
+  --cs-table-bg-color: black;
+  --cs-table-border: black;  
+  --gold-color: #d4af37;  
+  --cs-our-rating-span-color: #1984c5;  
+  --cs-bottomline-infobox-bg-color: #111;  
+  --cs-bottomline-infobox-border-color: #009FFF;  
+  --cs-table-row-bg-color: #222;
+  --cs-sticky-div-bg-color: #38444D;
+  --cs-sticky-shadowbox-color: rgba(255, 255, 255, 0.35);    
+}
+
+/* for FAQ section */
+summary {
+  font-size: 1.25rem;
+  font-weight: 600;
+  background-color: var(--faq-bg-color);
+  color: var(--faq-question-color);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+@keyframes sweep {
+  0%    {opacity: 0; margin-top: -10px}
+  100%  {opacity: 1; margin-top: 0px}
+}
+details > summary::after {
+  position: absolute;
+  content: "+";
+  right: 20px;
+}
+details[open] > summary::after {
+  position: absolute;
+  content: "-";
+  right: 20px;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* end of FAQ section */
+
+/* Pros and cons */
+.cs-specs {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.cs-specs li::before {
+  font-family: "Material Icons";
+  content: "\e5e1";
+  display: inline-block;
+  margin-right: 5px;
+  color: #FFBD30;
+  font-weight: bold;
+  vertical-align: bottom;
+}
+
+.cs-pros {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.cs-pros li::before {
+  font-family: "Material Icons";
+  content: "\e876";
+  display: inline-block;
+  margin-right: 5px;
+  color: #0AB059;
+  font-weight: bold;
+  vertical-align: bottom;
+}
+
+.cs-cons {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.cs-cons li::before {
+  font-family: "Material Icons";
+  content: "\e5cd";
+  display: inline-block;
+  margin-right: 5px;
+  color: #F15E64;
+  font-weight: bold;
+  vertical-align: bottom;
+}
+
+.cs-pros2 li::before {
+  content: "\e86c";
+}
+
+.cs-cons2 li::before {
+  content: "\e5c9";
+}
+
+/* end of Pros and cons */
+
+/* specs icons*/
+.material-symbols-outlined {
+  vertical-align: bottom;
+  margin-right: 15px;
+  margin-left: 5px;  
+  margin-bottom: 4px;    
+  color: var(--icon-color);
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;
+}
+
+.material-icons-red {
+  color: red;
+}
+
+.material-icons-green {
+  color: green;
+}
+
+.cs-icon-black-white{
+  color: var(--icon-bw-color);
+  margin-left: 20px;
+}
+
+.cs-icon-black-white:hover{
+  color: #009FFF;
+}
+
+/* end of specs icons*/
+
+
+/* Buttons */
+
+.cs-button {
+  background-color: var(--button-bg-color); 
+  border: none;
+  color: var(--cs-button-blue);
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid var(--cs-button-blue);  
+  border-radius:5px;
+}
+
+.cs-button:hover {
+  background-color: #008CBA; 
+  color: white;  
+}
+
+.cs-button-green {
+  border: 2px solid #4CAF50;
+  color: #4CAF50;
+  border-radius:5px;
+}
+
+.cs-button-green:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.cs-button-yellow {
+  border: 2px solid #FFBD30;
+  color: #FFBD30;
+  border-radius:5px;
+}
+
+.cs-button-yellow:hover {
+  background-color: #FFBD30;
+  color: white;
+}
+
+.cs-button-yellow2 {
+  border: 2px solid #F8CE5F;
+  background-color: #F8CE5F;
+  color: #ffffff;
+  border-radius:5px;
+}
+
+.cs-button-yellow2:hover {
+  background-color: #EDC352;
+  color: white;
+}
+
+
+.cs-button-blue {
+  border: 2px solid #00ABFB;
+  color: #00ABFB;
+  border-radius:5px;
+}
+
+.cs-button-blue:hover {
+  background-color: #00ABFB;
+  color: white;
+}
+
+.cs-button-orange {
+  border: 2px solid #ff6600;
+  color: #ff6600;
+  border-radius:5px;
+}
+
+.cs-button-orange:hover {
+  background-color: #ff6600;
+  color: white;
+}
+
+.cs-button-purple {
+  border: 2px solid #7725FF;
+  color: #7725FF;
+  border-radius:5px;
+}
+
+.cs-button-purple:hover {
+  background-color: #7725FF;
+  color: white;
+}
+
+.cs-button-margin-top{
+  margin-top: 25px;
+}
+
+.cs-button-margin-bottom{
+  margin-bottom: 25px;
+}
+
+/* End of Buttons */
+
+/* Info Box */
+
+.yellow-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #FFF8E6;
+  color: #4D3800;
+  border-left: solid 4px #E6A700;
+} 
+.blue-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #EEF9FD;
+  color: #193C48;
+  border-left: solid 4px #4CB3D4;
+} 
+.green-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #E6F6E6;
+  border-left: solid 4px #009400;
+  color: #003100;
+} 
+.red-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #FFEBEC;
+  border-left: solid 4px #E13238;
+  color: #4B1113;
+} 
+
+.gold-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #fbfaf4;
+  border-radius:5px;
+  border: solid 1px #bf9b30;
+  color: #755e1d;
+}
+
+.donate-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #EEF9FD;
+  border-radius:5px;
+  border: solid 1px #4CB3D4;
+  color: #193C48;
+  margin-top:25px;
+}
+
+
+.bottomline-infobox{
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: var(--cs-bottomline-infobox-bg-color);
+  border-left: solid 4px var(--cs-bottomline-infobox-border-color);
+} 
+
+.bottomline-txtcolor{
+  color: var(--cs-bottomline-infobox-border-color);
+  font-size: 22px;
+  font-weight: bold;
+} 
+
+
+/* Table */
+.cs-table {
+    border-collapse:separate;
+    border:solid var(--cs-table-border) 1px;
+    box-shadow: 0 0 10px var(--shadowbox-color);
+    color: var(--cs-table-color);
+}
+
+.cs-table td {
+    background-color: var(--cs-table-bg-color);
+    /* width: 50% ;  */     
+    padding-left: 35px;
+    padding-bottom: 4px;
+    padding-top: 4px;        
+    font-size:16px;
+}
+
+.cs-table th {
+  background-color: #005288;
+  color: white;      
+  border-right:solid #005288 1px;  
+  border-left:solid #005288 1px;
+  border-top:solid #005288 1px;        
+  /*width: 50% ;       */
+  padding-left: 35px; 
+}
+
+.cs-table td:first-child, th:first-child {
+   border-left: none;
+}
+
+.cs-table tr:nth-child(odd) td{
+   background-color: var(--cs-table-row-bg-color);
+}
+
+.cs-table-no-color tr:nth-child(odd) td{
+  background-color: #fff;
+}
+
+.cs-table-grad th {
+  background-image: linear-gradient(to right, #0191A9 , #A4029F);  
+  border-right:solid #A4029F 1px;  
+  border-left:solid #0191A9 1px;
+}
+
+.cs-table-grad2 th {
+  background-image: linear-gradient(to right, #01C4C8 , #6D0ECF);  
+  border-right:solid #6D0ECF 1px;  
+  border-left:solid #01C4C8 1px;
+}
+
+.cs-table-our-rating-color{
+  color: var(--cs-our-rating-span-color);
+  font-weight: bold;
+}
+
+.cs-table-th-blue th {
+  background-color: #0072bc;
+  color: white;      
+  border-right:solid #0072bc 1px;  
+  border-left:solid #0072bc 1px;
+  border-top:solid #0072bc 1px;        
+}
+
+.cs-table-th-green th {
+  background-color: #009879;
+  color: white;      
+  border-right:solid #009879 1px;  
+  border-left:solid #009879 1px;
+  border-top:solid #009879 1px;        
+}
+
+.cs-table-th-maroon th {
+  background-color: #670030;
+  color: white;      
+  border-right:solid #670030 1px;  
+  border-left:solid #670030 1px;
+  border-top:solid #670030 1px;        
+}
+
+.cs-table-th-black th {
+  background-color: #222222;
+  color: white;      
+  border-right:solid #222222 1px;  
+  border-left:solid #222222 1px;
+  border-top:solid #222222 1px;        
+}
+
+.cs-table-td-spacing td {
+  padding-bottom: 10px;
+  padding-top: 10px;        
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    /* width: 50% ; */
+}
+
+.styled-table th {
+  background-color: #009879;
+  border-left:solid #009879 1px;
+  border-right:solid #009879 1px;  
+  border-top:solid #009879 1px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #ddd;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+
+/* End of tables*/  
+
+.cs-shadowbox2 {
+  box-shadow: var(--table-border-color) 0px 2px 8px;
+  padding: 20px;
+  margin-bottom: 15px;
+  font-size: 17px;  
+}
+.cs-shadowbox {
+  box-shadow: 0 0 10px var(--shadowbox-color);
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 20px;
+  padding-top: 20px;  
+  margin-bottom: 20px;
+  font-size: 17px;  
+}
+.cs-shadowbox-alternatives {
+  box-shadow: 0 0 10px var(--shadowbox-color);
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 5px;
+  padding-top: 20px;  
+  margin-bottom: 20px;
+  font-size: 17px;  
+}
+
+.cs-shadowbox-org {
+  box-shadow: 0 0 10px var(--shadowbox-color);
+  padding: 35px;
+  margin-bottom: 20px;
+  font-size: 17px;  
+}
+
+.cs-containerbox {
+  border: 1px solid var(--table-border-color);
+  border-radius:5px;
+  padding: 20px;
+  margin-bottom: 15px;
+  font-size: 17px;
+  background-color: #f1f1f1;
+}
+
+.cs-span-color{
+  color: var(--cs-span-color);
+}
+
+.cs-span-margin-bottom{
+  margin-bottom: 15px;
+}
+
+.cs-span-margin-top{
+  margin-bottom: 15px;
+}
+
+.cs-span-ratingtxt-color{
+  color: var(--gold-color);
+  margin-left: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.cs-toc-section {
+  box-shadow: 0 0 10px var(--shadowbox-color);
+  margin: 5px 0;
+  padding: 20px 20px;
+  padding-left: 50px;
+  font-size: 17px;  
+  margin-bottom: 15px;    
+}
+
+.cs-rating-color{
+  color: magenta;
+  background-color: #009400;
+}
+
+/* The bar container */
+.cs-bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+  color: white;
+  margin-top:10px;
+}
+
+/* Individual bars */
+.cs-bar-green {height: 5px; background-color: #04AA6D;}
+.cs-bar-blue {height: 5px; background-color: #00bcd4;}
+.cs-bar-red {height: 5px; background-color: #f44336;}
+
+/* Three column layout */
+
+.cs-bar-side-right{
+  float: left;
+  width: 15%;
+  text-align: right;
+  margin-left: 5px;
+  color: var(--cs-our-rating-span-color);
+  font-weight: bold;
+}
+.cs-middle-bar {
+  float: left;
+  width: 50%;
+}
+
+
+/* Create two equal columns that floats next to each other */
+.cs-shadowbox-pros-cons {
+  box-shadow: 0 0 10px var(--shadowbox-color);
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  margin-bottom: 20px;
+  font-size: 15px;  
+  background-color: #cceee1;
+}
+.cs-pros-cons-column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.cs-pros-cons-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .cs-pros-cons-column {
+    width: 100%;
+  }
+}
+
+.cs-pros-new {
+  list-style-type: none;
+}
+
+.cs-pros-new li::before {
+  font-family: "Material Icons";
+  content: "\e86c";
+  display: inline-block;
+  color: #0AB059;
+  font-weight: bold;
+  vertical-align: bottom;
+  margin-left: -1.3em;
+  margin-right: 0.3em;  
+}
+
+
+.cs-cons-new {
+  list-style-type: none;
+}
+
+.cs-cons-new li::before {
+  font-family: "Material Icons";
+  content: "\e5c9";
+  display: inline-block;
+  color: #F15E64;
+  font-weight: bold;
+  vertical-align: bottom;
+  margin-left: -1.3em;
+  margin-right: 0.3em;  
+}
+
+.cs-center {
+  display: flex;
+  justify-content: center;
+}
+
+.cs-div-sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: var(--cs-sticky-div-bg-color);  
+  z-index: 5;  
+  padding-top: 10px;
+  padding-bottom: 10px; 
+}
+
+.cs-button-green-sticky {
+  border: 2px solid #04AA6D;  
+  background-color: #04AA6D;  
+  color: white;
+  border-radius:5px;
+}
+
+.cs-button-green-sticky:hover {
+  color: white;
+  background-color: #059863;  
+  border: 2px solid #059863;  
+}
+
+
+.cs-containerbox1 {
+  border: 1px solid #ddd;
+  border-radius:5px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  background-color: #f5f5f5;
+}
+
+.cs-check-mark {
+  list-style-type: none;
+}
+
+.cs-check-mark li::before {
+  font-family: "Material Icons";
+  content: "\e86c";
+  display: inline-block;
+  color: #0AB059;
+  font-weight: bold;
+  vertical-align: bottom;
+  margin-left: -2.3em;
+  margin-right: 0.4em;  
+  padding-left: 15px;
+}
+
+.cs-cross-mark {
+  list-style-type: none;
+}
+
+.cs-cross-mark li::before {
+  font-family: "Material Icons";
+  content: "\e5c9";
+  display: inline-block;
+  color: #F15E64;
+  font-weight: bold;
+  vertical-align: bottom;
+  margin-left: -2.3em;
+  margin-right: 0.4em;  
+  padding-left: 15px;
+}
+
+.cs-pdf-mark {
+  list-style-type: none;
+}
+
+.cs-pdf-mark li::before {
+  font-family: "Material Icons";
+  content: "\e415";
+  display: inline-block;
+  color: #CB0606;
+  font-weight: bold;
+  vertical-align: bottom;
+  margin-left: -2.3em;
+  margin-right: 0.4em;  
+  padding-left: 15px;
+}
+
