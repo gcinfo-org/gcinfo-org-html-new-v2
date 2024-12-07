@@ -13,6 +13,13 @@ a.donate-link:hover {
    color: #ff6600;  
 }
 
+a.coffee-color-link {
+	color: #C84B09; /* #BF755F light*/
+}
+a.coffee-color-link:hover {
+   color: #3399ff;  
+}
+
 .cs-check-mark {
    list-style-type: none;
  }
