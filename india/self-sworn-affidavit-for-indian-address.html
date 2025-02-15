@@ -283,7 +283,7 @@ Table of Content
 
         
           <div class="post-meta">
-            <time class="post-date" datetime="2025-01-23T12:52:01-08:00">Updated: 21 Feb 2024</time>            
+            <time class="post-date" datetime="2025-02-15T15:02:23-08:00">Updated: 15 Feb 2025</time>            
           </div>
         
 
@@ -347,11 +347,20 @@ In USA: print this format on plain paper and get notarized.<br />In India: print
 <label for="ocaddress">Current Address:</label> (Outside India)
 <input type="text" id="ocaddress" placeholder="7890 Oaks ave, Sunnyvale, CA, USA, 94086" />
 
-<label for="indiaaddress">India Address:</label>
+<label for="outofcountry">Are you staying in above country for more than 5 year?:</label>
+<select id="oocoptions" class="selectbox">
+<option value="yesooc" selected="">Yes</option>
+<option value="noooc">No</option>
+</select>
+
+<label for="indiaaddress">India Address:</label> This will be used for the Police verification.
 <input type="text" id="indiaaddress" placeholder="12345 BTM Layout, Bangalore, Karnataka, India, 560076" />
 
+<label for="policestation">India Address Name of Police Station:</label>
+<input type="text" id="policestation" placeholder="BTM Layout" />
+
 <label for="signdate">Sign Date:</label>
-<input type="text" id="signdate" placeholder="DD-MON-YYYY" />
+<input type="text" id="signdate" placeholder="21-Jan-2025" />
 
 <label for="signplace">Sign Place:</label>
 <input type="text" id="signplace" placeholder="Sunnyvale, CA, USA" />
